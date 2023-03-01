@@ -1,2 +1,4 @@
+# AGI
+
 open assistance
-basedai
+basedai 
