@@ -1,6 +1,7 @@
 # Artificial General Intelligence Tracker
 
 Here we list all the AGI projects that are currently being developed.  
+
 Contributions are welcome! Make a pull request to add your project to the list.
 
 ## Open source and free AGI projects
