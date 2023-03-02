@@ -20,3 +20,4 @@ Here we list all the AGI projects that are currently being developed.
 | PaLM + RLHF    | Pathways Language Model (PaLM) + Reinforcement Learning | <https://gpt3demo.com/apps/pathways-language-model-palm>                      | -                                                | Google     |
 | GLaM           | Mixture of experts (MoE) model                          | <https://gpt3demo.com/apps/google-glam>                                       | -                                                | Google     |
 | CodeGen        | Code generation from natural language                   | <https://github.com/salesforce/CodeGen>                                       | -                                                | Salesforce |
+| CodeGeeX       | A Multilingual Code Generation Model                    | <https://github.com/THUDM/CodeGeeX>                                           | <https://huggingface.co/spaces/THUDM/CodeGeeX>   | THUDM      |
