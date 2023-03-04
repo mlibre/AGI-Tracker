@@ -5,7 +5,7 @@ Contributions are welcome! Make a pull request to add your project to the list.
 
 ## Open source and free AGI projects
 
-|    AGI name    |                                       Description                                        |                            GitHub/Project Website                             |                    Live Demo                     |  Company   |
+|    AGI Name    |                                       Description                                        |                            GitHub/Project Website                             |                    Live Demo                     |  Company   |
 | :------------: | :--------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :----------------------------------------------: | :--------: |
 |     BLOOM      |                             Open Multilingual Language Model                             |                <https://bigscience.huggingface.co/blog/bloom>                 |    <https://huggingface.co/bigscience/bloom>     | bigscience |
 |     GPT-J      |                  A transformer model trained using Mesh Transformer JAX                  |                 <https://huggingface.co/EleutherAI/gpt-j-6B>                  |   <https://huggingface.co/EleutherAI/gpt-j-6B>   | EleutherAI |
